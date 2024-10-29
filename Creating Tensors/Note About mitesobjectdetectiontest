@@ -1,2 +1,0 @@
-In the mitesobjectdetectiontest, we all collaborated on the code together, and took inspiration from Dan DeGenaro. Most of the code in this file was written by Mr. DeGenaro, Henry, and Minghui.
-My main job during this period was helping find a way to save the tensors, and luckily, I found torch.save(), while Henry Dang was able to implement it.
